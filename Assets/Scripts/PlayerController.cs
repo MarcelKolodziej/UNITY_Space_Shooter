@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.Audio;
 
 [System.Serializable]
 public class Boundary
@@ -20,6 +21,7 @@ public class PlayerController : MonoBehaviour
     public float fireRate;
 
     private float nextFire;
+    public AudioSource input;
 
     private void Update()
     {
@@ -31,7 +33,7 @@ public class PlayerController : MonoBehaviour
             nextFire = Time.time + fireRate;
 
             clone.transform.position = shotSpawn.transform.position;
-
+            GetComponent<AudioSource>().Play();
         }
     }
 
