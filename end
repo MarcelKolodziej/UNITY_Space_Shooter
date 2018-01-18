@@ -1,0 +1,23 @@
+[33mcommit eeaa2d25af994a263bae5970e6bf462297191645[m[33m ([m[1;36mHEAD -> [m[1;32mextend[m[33m, [m[1;31morigin/extend[m[33m, [m[1;32mscripts[m[33m)[m
+Author: Marcel Kolodziej <kolodziejmarcel1@gmail.com>
+Date:   Thu Jan 18 00:28:09 2018 +0100
+
+    extend with models, Starfield
+
+[33mcommit 781716a2ba003ac72edba97f95ef5e6995374b6d[m[33m ([m[1;31morigin/scripts[m[33m)[m
+Author: Marcel Kolodziej <kolodziejmarcel1@gmail.com>
+Date:   Thu Jan 18 00:19:40 2018 +0100
+
+    extend
+
+[33mcommit 4247d8aa8c6f0a945fe80d0e7b72b5fa5cbc84c1[m
+Author: Marcel Kolodziej <kolodziejmarcel1@gmail.com>
+Date:   Sun Jan 14 23:53:43 2018 +0100
+
+    scripts, works
+
+[33mcommit 2a5e52b5953bfcae6eb8a3cb27e520824ab4abd3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Marcel Kolodziej <kolodziejmarcel1@gmail.com>
+Date:   Thu Jan 4 22:03:15 2018 +0100
+
+    first commit
